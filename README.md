@@ -18,6 +18,8 @@ Customize this template to make it your own. Remember to make your layout respon
 
 - **Images:** Replace the images by uploading your own and updating their URLs.  
 	[Go to article about how to upload files](https://support.w3schools.com/hc/en-gb/articles/4410414928017)
+	
+- **CSS:** https://www.w3schools.com/w3css/4/
 
 > ⚡️ **Tip:** [Set up Google Analytics](https://www.w3schools.com/howto/howto_google_analytics.asp) to get valuable insights about your space and visitors. 
 
